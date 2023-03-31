@@ -1,0 +1,28 @@
+2023-03-31T09:28:26+00:00 CRITICAL Cannot redeclare custom_post_type_movies() (previously declared in /var/www/html/wordpress/assignment3/wordpress/wp-content/themes/storefront-child/functions.php:106) in /var/www/html/wordpress/assignment3/wordpress/wp-content/themes/storefront/functions.php on line 73
+
+2023-03-31T09:28:29+00:00 CRITICAL Cannot redeclare custom_post_type_movies() (previously declared in /var/www/html/wordpress/assignment3/wordpress/wp-content/themes/storefront-child/functions.php:106) in /var/www/html/wordpress/assignment3/wordpress/wp-content/themes/storefront/functions.php on line 73
+
+2023-03-31T09:28:33+00:00 CRITICAL Cannot redeclare custom_post_type_movies() (previously declared in /var/www/html/wordpress/assignment3/wordpress/wp-content/themes/storefront-child/functions.php:106) in /var/www/html/wordpress/assignment3/wordpress/wp-content/themes/storefront/functions.php on line 73
+
+2023-03-31T09:28:33+00:00 CRITICAL Cannot redeclare custom_post_type_movies() (previously declared in /var/www/html/wordpress/assignment3/wordpress/wp-content/themes/storefront-child/functions.php:106) in /var/www/html/wordpress/assignment3/wordpress/wp-content/themes/storefront/functions.php on line 73
+
+2023-03-31T09:29:16+00:00 CRITICAL Cannot redeclare custom_post_type_movies() (previously declared in /var/www/html/wordpress/assignment3/wordpress/wp-content/themes/storefront-child/functions.php:106) in /var/www/html/wordpress/assignment3/wordpress/wp-content/themes/storefront/functions.php on line 73
+
+2023-03-31T09:29:19+00:00 CRITICAL Cannot redeclare custom_post_type_movies() (previously declared in /var/www/html/wordpress/assignment3/wordpress/wp-content/themes/storefront-child/functions.php:106) in /var/www/html/wordpress/assignment3/wordpress/wp-content/themes/storefront/functions.php on line 73
+
+2023-03-31T09:29:19+00:00 CRITICAL Cannot redeclare custom_post_type_movies() (previously declared in /var/www/html/wordpress/assignment3/wordpress/wp-content/themes/storefront-child/functions.php:106) in /var/www/html/wordpress/assignment3/wordpress/wp-content/themes/storefront/functions.php on line 73
+
+2023-03-31T09:29:30+00:00 CRITICAL Cannot redeclare custom_post_type_movies() (previously declared in /var/www/html/wordpress/assignment3/wordpress/wp-content/themes/storefront-child/functions.php:106) in /var/www/html/wordpress/assignment3/wordpress/wp-content/themes/storefront/functions.php on line 73
+
+2023-03-31T09:29:34+00:00 CRITICAL Cannot redeclare custom_post_type_movies() (previously declared in /var/www/html/wordpress/assignment3/wordpress/wp-content/themes/storefront-child/functions.php:106) in /var/www/html/wordpress/assignment3/wordpress/wp-content/themes/storefront/functions.php on line 73
+
+2023-03-31T09:30:05+00:00 CRITICAL Cannot redeclare custom_post_type_movies() (previously declared in /var/www/html/wordpress/assignment3/wordpress/wp-content/themes/storefront-child/functions.php:106) in /var/www/html/wordpress/assignment3/wordpress/wp-content/themes/storefront/functions.php on line 73
+
+2023-03-31T09:30:06+00:00 CRITICAL Cannot redeclare custom_post_type_movies() (previously declared in /var/www/html/wordpress/assignment3/wordpress/wp-content/themes/storefront-child/functions.php:106) in /var/www/html/wordpress/assignment3/wordpress/wp-content/themes/storefront/functions.php on line 73
+
+2023-03-31T09:30:07+00:00 CRITICAL Cannot redeclare custom_post_type_movies() (previously declared in /var/www/html/wordpress/assignment3/wordpress/wp-content/themes/storefront-child/functions.php:106) in /var/www/html/wordpress/assignment3/wordpress/wp-content/themes/storefront/functions.php on line 73
+
+2023-03-31T12:05:04+00:00 CRITICAL syntax error, unexpected end of file in /var/www/html/wordpress/assignment3/wordpress/wp-content/themes/storefront-child/functions.php on line 233
+
+2023-03-31T12:05:16+00:00 CRITICAL syntax error, unexpected end of file in /var/www/html/wordpress/assignment3/wordpress/wp-content/themes/storefront-child/functions.php on line 233
+
